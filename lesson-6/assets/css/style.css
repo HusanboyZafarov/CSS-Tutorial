@@ -8,6 +8,9 @@
     padding: 20px 10px;
 } */
 
+
+/* Inline Taglar */
+
 b {
     background: blue;
 }
@@ -21,11 +24,15 @@ i {
     background: #f40;
 }
 
+/* Max-width bu width faqat kafolatlangan versiyasi */
+
 .container {
     max-width: 1240px;
     margin: 0 auto;
     padding: 0 2%;
 }
+
+/* Id Classdan doim kuchli */
 
 #heading-1 {
     background: red;
